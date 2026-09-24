@@ -16,6 +16,8 @@ This is therefore an essay of two halves. In §1, [On Being AI Native](#on-being
 
 [If you are only interested in reading about AI engineering tools, skip to here](#stack)
 
+---
+
 # On Being AI Native
 
 ## Slop
@@ -106,7 +108,9 @@ From 2020–23, it seemed that crypto and NFTs were the snake oil hype of the to
 
 Where do we go from here?
 
-To be the best hands-on software engineer, using AI tooling is already beginning to become non-optional. At the same time: many, if not most, uses of AI constitute slop, using AI is arguably ethically questionable, security and privacy deviance is normalised with AI, and hype with over-promises surrounds the AI discourse. I expect that the ecosystem will mature over time for secure AI use, and in a less accessible but still present manner for privacy. The hype will decrease eventually, although we should all be concerned about the economic impacts given the enormous amount of circular borrowing to invest in AI data centres, financed in part by over-estimation of future revenues. Personal use of AI is ethically questionable, and in a way that seems to be more than just the ethical consequences of using a smartphone or other economic activity. In the following section, I discuss an answer to one of these points: eliminating (vibe-coded) slop with agentic engineering. I argue, through the example flows provided, that slop outputs from AI tools are contingent; in other words, it is possible to use AI to consistently generate high-quality outputs. Agentic engineering is a personal choice, however, and cultural challenges to decrease AI slop will continue.
+To be the best hands-on software engineer, using AI tooling is already beginning to become non-optional. At the same time: many, if not most, uses of AI constitute slop, using AI is arguably ethically questionable, security and privacy deviance is normalised with AI, and hype with over-promises surrounds the AI discourse. I expect that the ecosystem will mature over time for secure AI use, and in a less accessible but still present manner for privacy. The hype will decrease eventually, although we should all be concerned about the economic impacts given the enormous amount of circular borrowing to invest in AI data centres, financed in part by over-estimation of future revenues. Personal use of AI is ethically questionable, and in a way that seems to be more than just the ethical consequences of using a smartphone or other economic activity. In the following section, I discuss an answer to one of these points: eliminating (vibe-coded) slop with agentic engineering. I argue, through the example flows provided, that slop outputs from AI tools are contingent; in other words, it is possible to use AI to consistently generate high-quality outputs. Agentic engineering is a personal choice, however, and cultural challenges to decrease AI slop will continue
+
+---
 
 # Stack
 
@@ -196,7 +200,9 @@ The next step for me involves using [K8s agent sandboxes](https://github.com/age
 
 ## Conclusion
 
-There are many great open source tools for agentic engineering with AI in the terminal, and I have covered many above. There may be some benefits and drawbacks of taking a terminal-based approach over commercial offerings (JetBrains) or free offerings with a strong plugin community (VScode), but I think that VSCode and terminal tooling are at the bleeding edge, because agentic engineering remains relatively new. My agentic engineering journey has been much like the rest of my software journey: by upskilling and proactivity, I have been able to develop a solid workflow and stack through trial and error.
+There are many great open source tools for agentic engineering with AI in the terminal, and I have covered many above. There may be some benefits and drawbacks of taking a terminal-based approach over commercial offerings (JetBrains) or free offerings with a strong plugin community (VScode), but I think that VSCode and terminal tooling are at the bleeding edge, because agentic engineering remains relatively new. My agentic engineering journey has been much like the rest of my software journey: by upskilling and proactivity, I have been able to develop a solid workflow and stack through trial and error
+
+---
 
 [^1]: I have dropped the continuation of the definition from Wikipedia: "and usually produced in high volume to gain advantage, to earn money, or to deceive people". One might add other things, such as usually coinciding with a lack of knowledge and expertise. However, I think it is best to use a minimal, neutral definition. Some of these components of the definition resonate, but I don't see them as a [necessary condition](https://plato.stanford.edu/entries/necessary-sufficient/) for content to be AI slop.
 [^2]: People tend to be quite dismissive of Google models' current coding abilities, which may be justified, but their [market share as a model provider](https://axis-intelligence.com/llm-statistics/) safely puts them in the top three.
