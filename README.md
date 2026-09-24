@@ -33,7 +33,7 @@ On 19th July 2025, Asahi Linux, the open source project which reverse engineers 
 
 There is no doubt that AI tools can be, and very often are, used to generate slop, which we will define as "digital content made with generative artificial intelligence that is perceived as lacking in effort, **quality**, or meaning" ([from Wikipedia](https://en.wikipedia.org/wiki/AI_slop), emphasis my own [^1]).
 
-In my strictly professional life, I have worked as the senior engineer on repositories where I reviewed all code contributions. During this time, I have regularly had conversations on Pull Request reviews with team members along the lines of:
+In my professional life, I have worked as the senior engineer on repositories where I reviewed all code contributions. During this time, I have regularly had conversations on Pull Request reviews with team members along the lines of:
 
 * Me: "Let's talk about your choice to use this, why did you make it?"
 * PR Submitter: "I'm not sure, Tom."
