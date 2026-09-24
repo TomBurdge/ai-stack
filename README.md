@@ -8,7 +8,7 @@ The easy answer to that question is: "Yes. I have been continually upskilling wh
 
 AI is no different; it has become clear in the last 18 months (Claude Code was launched in May 2025) that it is non-optional for developers who want to do their job as productively as possible to use AI coding agents in a variety of ways. I want to do my job as well as I possibly can; therefore, I upskill and use AI.
 
-I have therefore written up a primer for using AI in the terminal. This serves: as a resource for those who may wish to see which tools and skills are worth learning and using, as a record for myself, and (similar to other open source projects on a GitHub "portfolio") as evidence that I am an "AI native engineer" who knows how to do my job well.
+To evidence and document this, I have therefore written a primer for using AI in the terminal. This serves: as a resource for those who may wish to see which tools and skills are worth learning and using, as a record for myself, and (similar to other open source projects on a GitHub "portfolio") as evidence that I am an "AI native engineer" who knows how to do my job well.
 
 However, AI is different from learning to use Kubernetes/the cloud.
 
