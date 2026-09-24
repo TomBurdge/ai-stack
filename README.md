@@ -41,7 +41,7 @@ In my professional life, I have worked as the senior engineer on repositories wh
 * Me: "Good approach, but let's reconsider this choice."
 * PR Submitter: "Great idea! We might want to reconsider this choice because of [a summary of what I said]. This is a great approach, but [suspiciously long justification for why the person disagrees. Lots of formatting, bullet points, sections, and emojis.]"
 
-Some of these cases have been heinous instances of AI slop, and some of them may have been just less engaged/underpaid/overworked developers - I have noticed that the former tends to breed the latter.
+Some of these cases have been heinous instances of AI slop, and some of them may have been just less engaged/underpaid/overworked developers - I have noticed that they are often co-occurrent phenoema.
 
 AI slop contributions are so common that I have found myself wishing that there were a workplace-appropriate version of `nohello.net`, a website that politely asks colleagues to send more than just "hello" in a message. Many of the anti-slop blog posts out there are angry, from developers who (perhaps rightly) are infuriated by AI slop wasting their time. But I will not send a colleague a blog post about AI slop/responsible AI use and reading outputs which calls AI slop a ["dereliction of duty as a software developer"](https://simonwillison.net/2025/Dec/18/code-proven-to-work/) or questions the use of AI altogether. The closest appropriate resource that I have found is `meatproxy.me`, but it's not professional enough and introduces a distracting analogy (meat proxy: where someone works as a "meat proxy" for AI).
 
